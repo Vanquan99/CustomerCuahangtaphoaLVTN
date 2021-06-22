@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916054767477",
+    "project_id": "fir-lvtn",
+    "storage_bucket": "fir-lvtn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916054767477:android:5b0e26ab53cdcdbcd3453c",
+        "android_client_info": {
+          "package_name": "com.dinhvanquan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916054767477-9u6avq5minr5jrcaq1kafpm6gclimuha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClc7IfJxEJafsEEZhEK02daQzIs2P-vLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916054767477-9u6avq5minr5jrcaq1kafpm6gclimuha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
